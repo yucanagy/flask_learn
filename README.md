@@ -1,0 +1,3 @@
+url_for:参数为url函数名，返回route
+redirect:参数为route，重定向到并访问指定地址
+render_template:参数为templates文件夹下的html文件名,返回一个渲染的网页
