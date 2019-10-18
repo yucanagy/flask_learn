@@ -1,3 +1,4 @@
 url_for:参数为url函数名，返回route
 redirect:参数为route，重定向到并访问指定地址
 render_template:参数为templates文件夹下的html文件名,返回一个渲染的网页
+SQL语句中，UNION拼接两个单独的SQL时候，单独的SQL中加入ORDER BY会报错，ORDER BY只能放在句末。
